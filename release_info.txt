@@ -1,0 +1,21 @@
+# Release info
+
+# Linux host
++-------------------------+-------------------------------------------+--------------------+-------------+------------------+
+| [Project]               | [OS]                                      | [Compiler]         | [Framework] | [IDE]            |
++-------------------------+-------------------------------------------+--------------------+-------------+------------------+
+| cmd_game_2048           | Linux Mint 18.2 Sonya - Cinnamon (64-bit) | GCC 5.3.1 (64-bit) | -           | Qt Creator 4.9.1 |
+| cmd_game_sapper         | Linux Mint 18.2 Sonya - Cinnamon (64-bit) | GCC 5.3.1 (64-bit) | -           | Qt Creator 4.9.1 |
+| qt_conways_game_of_life | Linux Mint 18.2 Sonya - Cinnamon (64-bit) | GCC 5.3.1 (64-bit) | Qt 5.9.1    | Qt Creator 4.9.1 |
+| qt_langtons_ant         | Linux Mint 18.2 Sonya - Cinnamon (64-bit) | GCC 5.3.1 (64-bit) | Qt 5.9.1    | Qt Creator 4.9.1 |
++-------------------------+-------------------------------------------+--------------------+-------------+------------------+
+
+# Windows host
++-------------------------+--------------------------------+----------------------+-------------+------------------+
+| [Project]               | [OS]                           | [Compiler]           | [Framework] | [IDE]            |
++-------------------------+--------------------------------+----------------------+-------------+------------------+
+| cmd_game_2048           | Windows 10 Enterprise (64-bit) | MinGW 5.3.0 (32-bit) | -           | Qt Creator 4.5.0 |
+| cmd_game_sapper         | Windows 10 Enterprise (64-bit) | MinGW 5.3.0 (32-bit) | -           | Qt Creator 4.5.0 |
+| qt_conways_game_of_life | Windows 10 Enterprise (64-bit) | MinGW 5.3.0 (32-bit) | Qt 5.10.0   | Qt Creator 4.5.0 |
+| qt_langtons_ant         | Windows 10 Enterprise (64-bit) | MinGW 5.3.0 (32-bit) | Qt 5.10.0   | Qt Creator 4.5.0 |
++-------------------------+--------------------------------+----------------------+-------------+------------------+
